@@ -7,6 +7,7 @@ export default class App extends Component<Props> {
     return (  
       <View>  
         <Text style={styles.welcome}>Hello World</Text>  
+        <Text style={styles.welcome}>This is first react native app</Text>  
       </View>  
     );  
   }  
